@@ -1,5 +1,5 @@
 # 🧑🏻‍💻👷🏻‍♂️ Hardware Engineer Jongsang's Github
-* [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=js4ngu)](https://github.com/js4ngu/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=js4ngu)](https://github.com/js4ngu/github-readme-stats)
 ---
 * 🙋🏻‍♂️ Hi, I'm "**Jongsang Yoo**"
 * 👨🏻‍🎓 Now, I'm studying **Eelctronic Engineering** (B.S course) in Myoungji Univ.
