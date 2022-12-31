@@ -3,7 +3,8 @@
 * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js4ngu&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ---
 * 🙋🏻‍♂️ Hi, I'm "**Jongsang Yoo**"
-* 👨🏻‍🎓 Now, I'm studying **Eelctronic Engineering** (B.S course) in Myoungji Univ.
+* 👨🏻‍🎓 Now, I'm studying **Computer Science** (M.S course) in Korea Univ.
+* 👨🏻‍🎓 I majored **Eelctronic Engineering** (B.S course) in Myoungji Univ.
 * 🔬 I'm interested in "**Embedded system / SoC (FPGA) / NPU / Robotics**"
 ---
 * 📨 **jamin0513@gmail.com**
