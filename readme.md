@@ -5,7 +5,7 @@
 * 🙋🏻‍♂️ Hi, I'm "**Jongsang Yoo**"
 * 👨🏻‍🎓 Now, I'm studying **Computer Science & Engineering** (M.S. courese) in Korea Univ.
 * 👨🏻‍🎓 I majored **Eelctronic Engineering** (B.S. degree) in Myoungji Univ.
-* 🔬 I'm interested in "**Embedded system / SoC (FPGA) / NPU / Robotics**"
+* 🔬 I'm interested in "**Embedded system / SoC (FPGA) / HW accelerator / Robotics**"
 ---
 * 📨 **jamin0513@gmail.com**
 * 📄 [**CV**](https://user-images.githubusercontent.com/30527114/210150600-58670e50-1f2a-471d-9c7b-515f2826197f.jpg)
