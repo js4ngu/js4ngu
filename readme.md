@@ -5,7 +5,9 @@
 * 🙋🏻‍♂️ Hi, I'm "**Jongsang Yoo**"
 * 👨🏻‍🎓 Now, I'm studying **Computer Science & Engineering** (M.S. student) in Korea Univ.
 * 👨🏻‍🎓 I majored **Eelctronic Engineering** (B.S. degree) in Myoungji Univ.
-* 🔬 I'm interested in "**NTT- based HW Accelerator (target for ZKP, FHE, PQC,,,) , SoC Architecture, Systolic array**"
+* 🔬 Now, I'm interested in "**Microprocessor Architecture (RISC-V), Custom vector ISA (for LLM acceleration), SoC Architecture**"
+* 🔬 I researched about "**NTT- based HW Accelerator (target for ZKP, FHE, PQC,,,) via Systolic array**"
+
 ---
 * 📨 **jamin0513@korea.ac.kr**
 * 📄 [**CV**](https://www.notion.so/CV-de49689bad7f45f1b45669358957d5c6?pvs=4)
