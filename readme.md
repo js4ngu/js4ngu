@@ -13,7 +13,6 @@
 * 📨 **jamin0513@korea.ac.kr**
 * 📄 [**CV**](https://www.notion.so/CV-de49689bad7f45f1b45669358957d5c6?pvs=4)
 * 📄 [**Portfolio**](https://right-blarney-ad5.notion.site/ABOUT-JONG-SANG-1bccf54efce348f1a788425029a6b408)
-* 🏠 [**Blog**](https://blog.naver.com/ben0513)
 ---
 📚 **Skill Stack**
 * C / Python
