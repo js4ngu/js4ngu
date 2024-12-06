@@ -5,9 +5,8 @@
 * 🙋🏻‍♂️ Hi, I'm "**Jongsang Yoo**"
 * 👨🏻‍🎓 Now, I'm studying **Computer Science & Engineering** (M.S. student) in Korea Univ.
 * 👨🏻‍🎓 I majored **Eelctronic Engineering** (B.S. degree) in Myoungji Univ.
-* 🔬 I'm currently focused on **"microprocessor architecture (RISC-V), custom vector ISAs for LLM acceleration, and SoC architecture"**.
+* 🔬 I'm currently focused on **"microprocessor architecture (RISC-V), custom vector instruction for LLM acceleration, and SoC architecture"**.
 * 🔬 I have also researched **"NTT-based hardware accelerators (targeting ZKP, FHE, PQC, etc.) using systolic array"**.
-
 
 ---
 * 📨 **jamin0513@korea.ac.kr**
@@ -16,10 +15,8 @@
 ---
 📚 **Skill Stack**
 * C / Python
-* STM32 / IAR
 * FPGA : Xylinx - Verilog / Vivado, Vitis
 * FPGA : Altera - Verilog / Quartus II
-* Atmega / Atmel Studio
+* ARMm, Atmega / Microchip Studio
 * Inventor, Fusion360
 * Kicad
-* PSIM
